@@ -9,6 +9,9 @@ Welcome to Git and Gihub Documentation's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   first.md
+   file1.md
 
 
 
